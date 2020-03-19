@@ -1,0 +1,9 @@
+{
+  "files": {
+    "main.js": "/bundle.js",
+    "main.js.map": "/bundle.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.dbbf12d316b77646aee0849228227184.js": "/precache-manifest.dbbf12d316b77646aee0849228227184.js",
+    "service-worker.js": "/service-worker.js"
+  }
+}
